@@ -3,7 +3,7 @@
   "description": "Memory game with Octocats",
   "version": "0.0.1",
   "dependencies": {
-    "debug": "2.6.9",
+
     "ejs": "^2.5.6",
     "hoek": "^4.0.0",
     "npm": "^7.0.0",
@@ -17,3 +17,4 @@
   },
   "license": "MIT"
 }
+GitHub Enterprise Server only: This is all possible on GitHub Enterprise through GitHub Connect. It may take up to an hour to refresh the alerts and make them visible. After waiting a reasonable amount of time, if you are still not seeing the yellow bar in the Dependency Graph, you may want to contact your administrator. In the mean time, to move along with the course, we'll give you a hint - the recommended upgraded version is 2.6.9.
